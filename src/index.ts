@@ -1,7 +1,8 @@
 import {html, render} from 'lit-html';
-import './style.sass';
+import './style.scss';
 
 const app = html`<h1>Hello world</h1>`;
 
-render(app, document.body);
-console.log('hi');
+export const update = () => render(app, document.body);
+
+update();
