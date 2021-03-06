@@ -3,7 +3,7 @@ A lit-html template with TypeScript, Sass, and Snowpack.
 With pre-commit hooks and linting tools.
 
 ## Linting tools
-- ESlint with Google, lit, and prettier guidelines plugins.
+- ESlint with Google, lit, and prettier guideline plugins.
 - Stylelint with Sass guidelines.
 - Husky & Lint-Staged
 
