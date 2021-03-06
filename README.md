@@ -1,4 +1,4 @@
-# lit-html-typescript-template
+# lit-html & TypesSript template
 A lit-html template with TypeScript, Sass, and Snowpack.
 With pre-commit hooks and linting tools.
 
