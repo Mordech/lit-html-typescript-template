@@ -1,3 +1,9 @@
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js', {
+    scope: '/',
+  });
+}
+
 import {html, render} from 'lit-html';
 import './style.scss';
 
