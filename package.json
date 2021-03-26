@@ -10,7 +10,7 @@
     "stylelint": "stylelint ./src"
   },
   "author": "Elad Mordechai Mizrahi <elad@mizrahi.cc>",
-  "license": "MPL-2.0",
+  "license": "MIT",
   "dependencies": {
     "lit-html": "^1.3.0"
   },
